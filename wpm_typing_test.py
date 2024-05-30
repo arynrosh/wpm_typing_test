@@ -1,4 +1,4 @@
-# PASSWORD VALIDATOR BY ARYAN ROSHAN
+# WPM TYPING TEST BY ARYAN ROSHAN
 
 import curses,time, random
 from curses import wrapper
